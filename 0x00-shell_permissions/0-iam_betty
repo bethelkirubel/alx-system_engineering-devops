@@ -1,1 +1,2 @@
- this is my shell permissions project 
+#!/bin/bash
+su betty
