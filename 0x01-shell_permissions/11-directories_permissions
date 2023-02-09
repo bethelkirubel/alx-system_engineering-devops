@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 755 /*subdirectory
+chmod -R 755 ./*subdirectory
