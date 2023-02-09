@@ -1,2 +1,2 @@
 #!/bin/bash
-touch rev hello
+chmod 654 rev hello
