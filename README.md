@@ -1,2 +1,2 @@
 #!/bin/bash
-I think i'm doing it right
+good project
