@@ -1,2 +1,2 @@
-#!/bin/bash
-tree -a
+#!/bin/bashh
+ls -RA | wc- l
