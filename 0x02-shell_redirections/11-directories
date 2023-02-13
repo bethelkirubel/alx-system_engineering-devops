@@ -1,2 +1,2 @@
 #!/bin/bashh
-ls -RA | wc- l
+ls -RAd | wc- l
