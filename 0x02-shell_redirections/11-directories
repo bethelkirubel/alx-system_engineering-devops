@@ -1,2 +1,2 @@
 #!/bin/bashh
-find. -type d! -path.| wc- l
+find . -type d! | wc -l
