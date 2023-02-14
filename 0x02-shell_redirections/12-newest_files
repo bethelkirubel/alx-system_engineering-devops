@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lpt | head | grep -v /
+ls -t | grep -v "^d" | Head
