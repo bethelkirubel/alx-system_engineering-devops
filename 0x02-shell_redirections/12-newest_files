@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | Head | grep -v "^d"
+ls -lt | Head -10

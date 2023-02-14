@@ -1,2 +1,2 @@
-#!/bin/bashh
-find . -type d ! -path| wc -l
+#!/bin/bash
+ls -l | grep "^d" | grep "d" | -ld .*/ | wc -l
