@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -h vincent:hello _hello
+chown -h vincent:hello ./_hello 
